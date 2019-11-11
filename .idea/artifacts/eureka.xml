@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eureka">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="eureka.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/springclouc-eureka" />
+    </root>
+  </artifact>
+</component>
